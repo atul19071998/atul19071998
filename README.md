@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Atul Choudhary , Welcome to my github Profile.</h1>
 <h3 align="center">I'm MERN web developer from India</h3>
-<img align="right" alt="coding" width="400" src=" https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
+<img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 <p align="left"> <a href="https://twitter.com/atulcho04825582" target="blank"><img src="https://img.shields.io/twitter/follow/atulcho04825582?logo=twitter&style=for-the-badge" alt="atulcho04825582" /></a> </p>
 
 - 🔭 I’m currently working on **MERN STACK**
